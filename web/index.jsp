@@ -16,8 +16,12 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
     <body>
+        <h1><a href="selectall.jsp">Author Database</a></h1>
+        <br/><!-- comment -->
+        <hr/>
         <div class="container">
             <div class="row">
+                
                 <div>
                      <form action="login.jsp" method="POST">
                         <div class="form-group">
